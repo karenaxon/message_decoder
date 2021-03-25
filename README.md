@@ -1,4 +1,4 @@
-# message_decoder
+# Message Decoder
 This program creates a linked list and adds elements to it from a file with each line containing: 
 <ol>
 <li>a letter/character/space</li>
